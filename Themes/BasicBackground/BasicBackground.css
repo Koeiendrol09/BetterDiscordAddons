@@ -29,10 +29,10 @@
 	--textdarker: 					125,125,125;
 	--textdarkest: 					90,90,90;
 	
-	--background:					url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/_res/background.jpg);
-	--backgroundposition:			center;
+	--background:					url(https://imgur.com/JdEoW4V);
+	--backgroundposition:			right;
 	--backgroundsize:				cover;
-	--backgroundblur:				unset;
+	--backgroundblur:				5px;
 	
 	--popout:						var(--background);
 	--popoutposition:				var(--backgroundposition);
